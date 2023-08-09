@@ -1,0 +1,18 @@
+.login {
+    text-align:center;
+}
+.login h1 {
+    font-weight:800;
+    font-size:30px;
+    line-height:20px;
+
+}
+.login .id {
+    border: 1px solid #514A4A;
+    
+    
+}
+.login .password {}
+.login p {}
+.login .submit {}
+.login .join {}
